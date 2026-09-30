@@ -1,5 +1,4 @@
-# layoffs_sql_data_cleaning
-MYSQL data cleaning and exploratory analysis of global tech layoffs(2020-2023).
+
 # World Layoffs: SQL Data Cleaning & Exploratory Analysis
 
 A MySQL project that takes a raw, messy global layoffs dataset, cleans it step by step, and then analyzes it to find when, where and in which industries layoffs hit hardest.
